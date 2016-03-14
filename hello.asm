@@ -57,7 +57,7 @@ _start:
 
 	message:
 		db 0x0A
-		db 'Hello from Docker. version 1', 0x0A
+		db 'Hello from Docker. version 2', 0x0A
 		db 'This message shows that your installation appears to be working correctly.', 0x0A
 		db 0x0A
 		db 'To generate this message, Docker took the following steps:', 0x0A
